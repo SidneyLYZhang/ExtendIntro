@@ -1,6 +1,6 @@
 # Extend Simple Intro
 
-a simple theme for hugo that is modified from [SimpleIntro](https://github.com/gangjun06/SimpleIntro)
+一个修改自 [SimpleIntro](https://github.com/gangjun06/SimpleIntro) 的Hugo模板
 
 ![intro](images/screenshot.png)
 
@@ -10,13 +10,15 @@ https://gangjun06.github.io/SimpleIntroDemo
 
 # Get Started
 
+安装模板：
+
 ```bash
 hugo new site <site-name>
 cd <site-name>
 git submodule add https://github.com/SidneyLYZhang/ExtendIntro themes/ExtendIntro
 ```
 
-You can also build Exsample Site locally:
+可以在本地运行实例网站:
 
 ```bash
 cd themes/ExtendIntro
@@ -25,7 +27,7 @@ hugo server --source=exampleSite
 
 # Configuration
 
-Check out the config files included on the [exampleSite](exampleSite)
+可以在实例内容 [exampleSite](exampleSite) 中看到配置文件。
 
 # Credits
 
@@ -35,9 +37,8 @@ Check out the config files included on the [exampleSite](exampleSite)
 | [devicons/devicon](https://github.com/devicons/devicon)           | MIT License | Demo Site Icon |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | MIT License | Css Library    |
 
-# ETC.
+# 补充信息
 
-I like this theme [SimpleIntro](https://github.com/gangjun06/SimpleIntro) so much, 
-but it's a little simple, so I've modified it, and make it to generate as simple but richer resumes as possible.
-
-I've added some modules into theme, including 'experiences' and 'languages'.
+我超喜欢 [SimpleIntro](https://github.com/gangjun06/SimpleIntro) 这个简历主题，
+但是这个主题有点太简单了，而且灵活性略有不足~所以我在其基础上做了一些修改，增加了一些简历模块，
+希望可以适应更多的使用情况。

@@ -1,0 +1,30 @@
+[[list]]
+    jobtitle = "Data Scientist"
+    image = "https://picsum.photos/400/200"
+    company = "lorem company"
+    datetime = "2018-06 ~ Now"
+    text = """
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Voluptatibus quia, nulla! Maiores et perferendis eaque,
+        exercitationem praesentium nihil.
+    """
+[[list]]
+    jobtitle = "Data Analyst"
+    image = "https://picsum.photos/400/200"
+    company = "lorem zwei company"
+    datetime = "2015-12 ~ 2018-06"
+    text = """
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Voluptatibus quia, nulla! Maiores et perferendis eaque,
+        exercitationem praesentium nihil.
+    """
+[[list]]
+    jobtitle = "Algorithm Engineer"
+    image = "https://picsum.photos/400/200"
+    company = "lorem drei company"
+    datetime = "2010-10 ~ 2015-12"
+    text = """
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Voluptatibus quia, nulla! Maiores et perferendis eaque,
+        exercitationem praesentium nihil.
+    """

@@ -1,0 +1,34 @@
+baseURL = ""
+languageCode = "zh-cn"
+theme = "ExtendIntro"
+title = "Theme Demo"
+publishDir = "public"
+themesDir = "../.."
+
+[params]
+    mainbg = "https://picsum.photos/1920/1080"
+    name = "Sidney Zhang"
+    mainTitle = "extend Simple-Intro"
+    mainText = "Just simple Resume theme for hugo"
+
+[menus]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "#about"
+    [[menu.main]]
+        identifier = "skills"
+        name = "Skills"
+        url = "#skills"
+    [[menu.main]]
+        identifier = "languages"
+        name = "Languages"
+        url = "#languages"
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "#projects"
+    [[menu.main]]
+        identifier = "experiences"
+        name = "Experiences"
+        url = "#experiences"
