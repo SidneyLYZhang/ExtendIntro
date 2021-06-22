@@ -1,8 +1,10 @@
 # Extend Simple Intro
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/SidneyLYZhang/ExtendIntro?style=flat-square)](https://github.com/SidneyLYZhang/ExtendIntro/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-[![License](https://img.shields.io/github/license/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/SidneyLYZhang/ExtendIntro?style=flat-square)](https://github.com/SidneyLYZhang/ExtendIntro/blob/main/LICENSE)
+
+English README | [简体中文说明](https://github.com/SidneyLYZhang/ExtendIntro/blob/main/README.zh-cn.md)
 
 a simple theme for hugo that is modified from [SimpleIntro](https://github.com/gangjun06/SimpleIntro)
 

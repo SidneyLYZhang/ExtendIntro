@@ -1,5 +1,11 @@
 # Extend Simple Intro
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/SidneyLYZhang/ExtendIntro?style=flat-square)](https://github.com/SidneyLYZhang/ExtendIntro/releases)
+[![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
+[![License](https://img.shields.io/github/license/SidneyLYZhang/ExtendIntro?style=flat-square)](https://github.com/SidneyLYZhang/ExtendIntro/blob/main/LICENSE)
+
+[English README](https://github.com/SidneyLYZhang/ExtendIntro/blob/master/README.md) | 简体中文说明
+
 一个修改自 [SimpleIntro](https://github.com/gangjun06/SimpleIntro) 的Hugo模板
 
 ![intro](images/screenshot.png)
