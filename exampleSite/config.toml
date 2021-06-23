@@ -14,21 +14,37 @@ themesDir = "../.."
 [menus]
     [[menu.main]]
         identifier = "about"
+        pre = ""
         name = "About"
         url = "#about"
+        weight = 1
     [[menu.main]]
         identifier = "skills"
+        pre = ""
         name = "Skills"
         url = "#skills"
+        weight = 4
     [[menu.main]]
         identifier = "languages"
+        pre = ""
         name = "Languages"
         url = "#languages"
+        weight = 5
     [[menu.main]]
         identifier = "projects"
+        pre = ""
         name = "Projects"
         url = "#projects"
+        weight = 3
     [[menu.main]]
         identifier = "experiences"
+        pre = ""
         name = "Experiences"
         url = "#experiences"
+        weight = 2
+    [[menu.main]]
+        identifier = "blog"
+        pre = "<i class='fas fa-home'></i>"
+        name = ""
+        url = "https://lyzhang.me"
+        weight = 6

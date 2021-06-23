@@ -3,7 +3,15 @@
   <ul class="hidden md:flex">
     {{ range .Site.Menus.main }}
     <li>
-      <a href="{{ .URL }}">{{ .Name }}</a>
+      <a href="{{ .URL }}">
+        {{- with .Pre -}}
+          <span>{{ . | safeHTML }}</span>
+        {{- end -}}
+        {{ .Name }}
+        {{- with .Post -}}
+          <span>{{ . | safeHTML }}</span>
+        {{- end -}}
+      </a>
     </li>
     {{end}}
   </ul>

@@ -52,17 +52,17 @@
       </div>
     </section>
     {{ $data := .Site.Data.extend }}
-    {{ range (readDir "./data/extend/") }}
-      {{ if eq .Name "skills.toml" }}
+    {{ range .Site.Menus.main }}
+      {{ if eq .Identifier "skills" }}
         {{ partial "skills" $data.skills }}
       {{end}}
-      {{ if eq .Name "languages.toml" }}
+      {{ if eq .Identifier "languages" }}
         {{ partial "languages" $data.languages }}
       {{end}}
-      {{ if eq .Name "projects.toml" }}
+      {{ if eq .Identifier "projects" }}
         {{ partial "projects" $data.projects }}
       {{end}}
-      {{ if eq .Name "experiences.toml" }}
+      {{ if eq .Identifier "experiences" }}
         {{ partial "experiences" $data.experiences }}
       {{end}}
     {{end}}

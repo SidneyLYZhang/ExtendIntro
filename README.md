@@ -4,7 +4,7 @@
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
 [![License](https://img.shields.io/github/license/SidneyLYZhang/ExtendIntro?style=flat-square)](https://github.com/SidneyLYZhang/ExtendIntro/blob/main/LICENSE)
 
-English README | [简体中文说明](https://github.com/SidneyLYZhang/ExtendIntro/blob/main/README.zh-cn.md)
+English README | [简体中文说明](https://github.com/SidneyLYZhang/ExtendIntro/blob/main/README_zh-cn.md)
 
 a simple theme for hugo that is modified from [SimpleIntro](https://github.com/gangjun06/SimpleIntro)
 
