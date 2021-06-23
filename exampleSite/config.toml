@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://sidneylyzhang.github.io/ExtendIntro/"
 languageCode = "zh-cn"
 theme = "ExtendIntro"
 title = "Theme Demo"
