@@ -12,7 +12,7 @@
 
 # Live Demo
 
-https://gangjun06.github.io/SimpleIntroDemo
+https://sidneylyzhang.github.io/ExtendIntro/
 
 # Get Started
 

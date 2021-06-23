@@ -12,7 +12,7 @@ a simple theme for hugo that is modified from [SimpleIntro](https://github.com/g
 
 # Live Demo
 
-https://gangjun06.github.io/SimpleIntroDemo
+https://sidneylyzhang.github.io/ExtendIntro/
 
 # Get Started
 
