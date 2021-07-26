@@ -1,6 +1,6 @@
 [[list]]
     name = "go"
-    icon = "go-original"
+    icon = "go"
     text = """
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Voluptatibus quia, nulla! Maiores et perferendis eaque,
@@ -8,7 +8,7 @@
     """
 [[list]]
     name = "React"
-    icon = "react-original"
+    icon = "react"
     text = """
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Voluptatibus quia, nulla! Maiores et perferendis eaque,
@@ -16,7 +16,7 @@
     """
 [[list]]
     name = "C/C++"
-    icon = "cplusplus-original"
+    icon = "cplusplus"
     text = """
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Voluptatibus quia, nulla! Maiores et perferendis eaque,
