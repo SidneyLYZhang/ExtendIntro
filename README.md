@@ -38,7 +38,7 @@ Check out the config files included on the [exampleSite](exampleSite)
 | Name                                | License     | Description    |
 | ----------------------------------- | ----------- | -------------- |
 | [SimpleIntro](https://github.com/gangjun06/SimpleIntro) | Apache-2.0 License | Original template |
-| [devicons/devicon](https://github.com/devicons/devicon)           | MIT License | Demo Site Icon |
+| [simple-icons](https://github.com/simple-icons/simple-icons)           | CC0-1.0 License | Simple Icon |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | MIT License | Css Library    |
 
 # ETC.
